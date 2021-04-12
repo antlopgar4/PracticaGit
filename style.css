@@ -1,0 +1,111 @@
+
+
+h1{
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: red;
+
+}
+
+header{
+    
+    text-align: left;
+    /*background-image: url("img/cabecera.jpg");*/
+    
+    background-color: black;
+    margin-top: 10px;
+    font: 25px bold red;
+    padding: 20px;
+    height: 400px;
+    
+    margin-right: 10px;
+    
+    ;
+}
+.cabecera{
+    list-style: none;
+    display:inline-block;
+    width: 100%;
+}
+
+img{
+    margin-top: 50px;
+    width: 200px;
+    display:block;
+
+}
+
+
+
+
+.barraNav{
+    background-color: rgb(103, 102, 107);
+    padding: 3px 8px;
+    border:1px solid black;
+    
+
+}
+.barraNav li{
+    list-style: none;
+    
+    padding: 1px;
+    
+    font: 15px bold vernana;
+    display:inline-block;
+    text-align: center;
+
+}
+.seccion{
+    padding-left: 20px;
+    text-align: left;
+    background-color: indianred;
+    border: 3px solid black ;
+    width: 60%;
+    float:left;
+    
+
+}
+.seccion p{
+    width: 60%;
+}
+
+.columna{
+    
+    width: 25%;
+    padding-left: 20px;
+    margin-top: 0px;
+    margin-left: 100px;
+    background-color: indianred;
+    border: 3px solid black;
+    float: left;
+}
+.columna li{
+    list-style: none;
+    text-align: left;
+    padding-top: 1px;
+
+}
+article footer{
+    text-align: right;
+    padding-right: 40px;
+    padding-bottom: 10px;
+}
+
+.pie{
+    
+    border: 1px solid black;
+    
+    clear: both;
+   
+}
+
+.pie li{
+    list-style: none;
+    text-align: center;
+    display:inline-block;
+    text-align: center;
+
+}
+
+
